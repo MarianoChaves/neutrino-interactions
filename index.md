@@ -54,7 +54,7 @@ python3 events.py
 
 ### SOLAR NEUTRINOS
 
-## The chi² analysis
+## The statistical analysis
 
 ### Medium baseline reactors
 
