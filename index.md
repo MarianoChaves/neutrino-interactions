@@ -12,12 +12,45 @@ the real and imaginary part of a non-standard interactions coupling. We divide t
 ## The number of events
 
 ### Daya Bay
-
+In order the simulate the number of events of Daya Bay, one should acess the "events/dayabay/" folder and use the following commands:
+```markdown
+make
+./glf_spectrum
+```
+a .csv file will be generated containing the energy and the ratio of events for each energy bin. To visualize the number of events, one should use
+```markdown
+python3 events.py
+```
 ### Double Chooz
-
+In order the simulate the number of events of Double Chooz, one should acess the "events/doublechooz/" folder and use the following commands:
+```markdown
+make
+./glf_spectrum
+```
+a .csv file will be generated containing the energy and the ratio of events for each energy bin. To visualize the number of events, one should use
+```markdown
+python3 events.py
+```
 ### RENO
-
+In order the simulate the number of events of RENO, one should acess the "events/reno/" folder and use the following commands:
+```markdown
+make
+./glf_spectrum
+```
+a .csv file will be generated containing the energy and the ratio of events for each energy bin. To visualize the number of events, one should use
+```markdown
+python3 events.py
+```
 ### KAMLAND
+In order the simulate the number of events of Kamland, one should acess the "events/kamland/" folder and use the following commands:
+```markdown
+make
+./glf_spectrum
+```
+a .csv file will be generated containing the energy and the ratio of events for each energy bin. To visualize the number of events, one should use
+```markdown
+python3 events.py
+```
 
 ### SOLAR NEUTRINOS
 
@@ -34,10 +67,6 @@ the real and imaginary part of a non-standard interactions coupling. We divide t
 ### Solar experiments + KAMLAND
 
 ### Global analysis
-
-```markdown
-Syntax highlighted code block
-```
 
 ## Support or Contact
 
