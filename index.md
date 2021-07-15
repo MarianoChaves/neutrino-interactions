@@ -7,7 +7,7 @@ In this repository you can have acess to all codes needed to simulate the result
 ## Non-standard neutrino interactions in the neutrino production and detection
 
 The analysis of this work, is dependent on six free paramters: the mixing angles 13 and 12, the mass square differences 21 and 31, 
-the real and imaginary part of a non-standard interactions coupling. We divide the analysis in four independent analys, divided in tensor and scalar interactions, where for each case were considered <img src="https://render.githubusercontent.com/render/math?math=[\tilde{\epsilon}_X]_{e\mu}"> and <img src="https://render.githubusercontent.com/render/math?math=[\tilde{\epsilon}_X]_{e\tau}">.
+the real and imaginary part of a non-standard interactions coupling. We divide the analysis in four independent analysis, for tensor and scalar interactions, where for each case were considered <img src="https://render.githubusercontent.com/render/math?math=[\tilde{\epsilon}_X]_{e\mu}"> or <img src="https://render.githubusercontent.com/render/math?math=[\tilde{\epsilon}_X]_{e\tau}">.
 
 ## The number of events
 
