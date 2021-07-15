@@ -2,7 +2,7 @@
 
 In this repository you can all all the codes needed to simulate the results of [arXiv:2106.15725](https://arxiv.org/abs/2106.15725).
 
-![Image](src)
+![Image](logo-gefan.png)
 
 ## Non-standard neutrino interactions in the neutrino production and detection
 
